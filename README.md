@@ -1,4 +1,4 @@
-# apcshelp.github.io
+# :sparkles: APCSHelp! :sparkles:
 APCS Help webpage - powers https://apcshelp.github.io
 
 The purpose of this site is to create thoughtful explanations for common problems that are given in many AP Computer Science A classes. We would like to allow any programming problems whatsoever, however. We want this site to be a great resource for people to try new problems and challenge themselves to accomplish more.
