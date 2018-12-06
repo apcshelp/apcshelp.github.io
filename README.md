@@ -8,4 +8,4 @@ We'd love to accept new problems or add solutions to existing problems. Please u
 
 Thank you, and enjoy the solutions!
 
-** The APCSHelp team **
+  **- The APCSHelp team**
